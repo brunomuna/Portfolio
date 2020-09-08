@@ -1,11 +1,7 @@
 # Portfolio
-Skills and works
 
-Sou Bruno Munarolo, estudante de T.I. desde criança e o que mais quero nessa vida é ser um ótimo programador.
-
-Então vamos lá!
-
-Procuro pessoas para que comentem e tente me ajudar em quaisquer coisas que verem com problemas ou 
-com uma forma mais prática para o que aja digitado.
-
-Agradeço a todos desde já!
+Meu nome é Bruno, tenho 23 anos e moro em São Paulo-SP. Sou
+habitualmente um estudante da Tecnologia da Informação, por esse motivo
+vivo em constante aprendizado de novas técnicas e me aprimorando, fiz
+complementação técnica pela Microlins, W3School, FreeCodeCamp,
+Codecademy.
